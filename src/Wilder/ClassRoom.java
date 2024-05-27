@@ -1,3 +1,5 @@
+package Wilder;
+
 public class ClassRoom {
     public static void main(String[] args) {
         Wilder emma = new Wilder("Emma", true);
